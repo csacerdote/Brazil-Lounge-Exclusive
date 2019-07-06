@@ -1,0 +1,19 @@
+
+/* Burkyst */
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/Gp1zH1c.png");
+}
+/* -Death Gun */
+[data-cid^="27880115-"] .badge-box .bdg,
+#user-rollover.id-27880115 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://rcs.radiant.dj/img/plugdj/badges/bdg-warriorb-e02.png");
+}
